@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Iran-Yekan;
+    src: url(../fonts/YekanBakhMedium.woff);
+}
+@font-face {
+    font-family: iranyekanwebmedium ;
+    src: url(../fonts/iranyekanwebmedium.woff);
+}
+@font-face {
+    font-family: iranyekanwebregular ;
+    src: url(../fonts/iranyekanwebregular.woff);
+}
+@font-face {
+    font-family: YekanBakhBold;
+    src: url(../fonts/YekanBakhBold.woff);
+}
+@font-face {
+    font-family: YekanBakhHeavy;
+    src: url(../fonts/YekanBakhHeavy.woff);
+}
+.nav-items{
+    font-family: Iran-Yekan;
+    font-size: 14px;
+    font-weight: 200;
+    
+}
+.hamburger-menu{
+    font-family: Iran-Yekan;
+}
+
