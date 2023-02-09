@@ -1,2 +1,2 @@
 # project URLs:
-[netlify](https://weather-app-devv.netlify.app/)
+[netlify](https://zarinpal-dev.netlify.app/)
